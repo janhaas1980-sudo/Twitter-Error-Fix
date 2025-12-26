@@ -1,4 +1,4 @@
-# 🚀 自如加速器 (Goziru) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
+# 🚀 自如加速器 (zirujiasu) - HarmonyOS Next & iOS 全球化调优指南 (2026旗舰版)
 
 <p align="center">
   <a href="https://goziru.com">
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌏 自如实验室 (Goziru Lab): 重新定义全球连接
+### 🌏 自如实验室 (ziru Lab): 重新定义全球连接
 **体验专为 HarmonyOS NEXT 与 iOS 深度优化的自如 68ms 极速链路。**
 
 > **English Version:**
@@ -26,7 +26,7 @@
 
 ---
 ---
-本项目由 ****** 自如网络性能实验室 (Bangkok 提供技术支持。专门解决 HarmonyOS 终端及 iOS 设备在访问全球化 4K 直播、AI 工具时出现的“连接重置”或“加载缓慢”等痛点。
+本项目由 自如网络性能实验室 (Bangkok 提供技术支持。专门解决 HarmonyOS 终端及 iOS 设备在访问全球化 4K 直播、AI 工具时出现的“连接重置”或“加载缓慢”等痛点。
 
 ## 🔍 核心痛点：为什么你的 4K 直播会卡顿？
 经过曼谷实验室抓包分析，90% 的卡顿并非终端性能不足，而是因为使用了 **数据中心 IP (机房 IP)**。这类 IP 信誉分极低，极易触发服务端的 TLS 协议重置 (RST)。
