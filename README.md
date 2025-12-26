@@ -1,5 +1,29 @@
 # 🚀 HarmonyOS Next 全球化 4K 视频加载优化及避坑指南 (2026 旗舰版)
+# 🚀 HarmonyOS Next & iOS 全球化应用调优指南
 
+<p align="center">
+  <a href="https://goziru.com">
+    <img src="https://img.shields.io/badge/68ms-极速体验包一键跳转-red?style=for-the-badge&logo=rocket&logoColor=white" alt="68ms极速体验包">
+  </a>
+  <a href="您的CSDN文章链接">
+    <img src="https://img.shields.io/badge/住宅原生ISP-技术深挖-blue?style=for-the-badge&logo=book&logoColor=white" alt="技术原理">
+  </a>
+</p>
+---
+
+### 🌏 Bangkok Lab: Global Connectivity Redefined
+**Experience the 68ms ultra-low latency specifically tuned for HarmonyOS NEXT and iOS.**
+
+> **English Version:**
+> 🚀 **Unlock the True Potential**: Tired of buffering? Our **Residential ISP** solution bypasses TLS handshakes resets and IP reputation filters. 
+> 🔗 [**Get 68ms Trial Now**](https://goziru.com) - Use code **【Sen Shu Fen Si】** for an exclusive $1 trial!
+
+> **ภาษาไทย (Thai Version):**
+> 🚀 **สัมผัสประสบการณ์ความเร็วสูงสุด**: เบื่อกับการโหลดวิดีโอ 4K ที่ช้าใช่ไหม? โซลูชัน **Residential ISP** ของเราช่วยแก้ปัญหาการเชื่อมต่อที่ติดขัดสำหรับ HarmonyOS NEXT และ iOS 
+> 🔗 [**รับแพ็กเกจทดลอง 68ms**](https://goziru.com) - ใช้โค้ด **【Sen Shu Fen Si】** เพื่อรับสิทธิ์ทดลองใช้งานในราคาพิเศษ!
+
+---
+---
 本项目由 **曼谷网络性能实验室 (Bangkok Lab)** 提供技术支持。专门解决 HarmonyOS 终端及 iOS 设备在访问全球化 4K 直播、AI 工具时出现的“连接重置”或“加载缓慢”等痛点。
 
 ## 🔍 核心痛点：为什么你的 4K 直播会卡顿？
