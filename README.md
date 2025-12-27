@@ -4,7 +4,7 @@
   <a href="https://goziru.com">
     <img src="https://img.shields.io/badge/自如加速器-68ms极速体验包-red?style=for-the-badge&logo=rocket&logoColor=white" alt="自如加速器68ms体验">
   </a>
-  <a href="https://blog.csdn.net/Sen_1977/article/details/156244026?spm=1011.2415.3001.10575&sharefrom=mp_manage_link">
+  <a href="https://blog.csdn.net/Sen_1977/article/details/156314419?spm=1011.2415.3001.10575&sharefrom=mp_manage_link">
     <img src="https://img.shields.io/badge/自如-住宅原生ISP技术-blue?style=for-the-badge&logo=book&logoColor=white" alt="自如技术原理">
   </a>
 </p>
